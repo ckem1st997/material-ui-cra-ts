@@ -4,16 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
+.idea/
 
 # testing
 /coverage
 
 # production
 /build
-
-# IDEs and editors
-/.idea
-/.vscode
 
 # misc
 .DS_Store
